@@ -1,0 +1,39 @@
+﻿body {
+    background-color: darkgray!important;
+    margin: 0;
+    padding: 0;
+}
+
+.blue-box {
+    height: 30vh;
+    background-color: dodgerblue;
+    position:sticky !important;
+    top: 0;
+}
+
+
+.side {
+    margin-left: 0;
+}
+
+button {
+    margin: 10px;
+    border-color: #957dad !important;
+    color: #888888 !important;
+    margin-bottom: 25px;
+}
+
+    button:hover {
+        background-color: #fec8d8 !important;
+    }
+
+#textbox1 {
+  
+}
+
+.flex-box {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
